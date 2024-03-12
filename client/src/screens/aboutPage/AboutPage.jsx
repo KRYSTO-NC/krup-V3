@@ -7,6 +7,7 @@ const AboutPage = () => {
         <p className='lead'>
            Bienvenue sur notre plateforme de mise en relation des artisans et producteurs locaux.
         </p>
+      <p>test commit </p>
     </section>
   )
 }
