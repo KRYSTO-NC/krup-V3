@@ -1,0 +1,29 @@
+
+
+.orange-background {
+  background-color: #FFA500 !important;
+}
+
+.badge-dash{
+    background-color: #5ab581 ;
+    color:  #1e3729;
+    padding: 0.5rem 1.7rem;
+    width: 15rem;
+    border-radius: 15px;
+    margin-top: 2rem;
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+.img-table{
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}

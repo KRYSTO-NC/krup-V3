@@ -1,0 +1,28 @@
+@import '../../../sass/variables.scss';
+@import '../../../sass/reset.scss';
+@import '../../../sass/mixins.scss';
+@import '../../../sass/utilities.scss';
+@import '../../../sass/animations.scss';
+@import '../../../sass/form.scss';
+
+.post-form-header {
+    padding: 1rem;
+}
+
+
+.post {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-gap: 2rem;
+    align-items: center;
+
+
+    &>div:first-child {
+        text-align: center;
+    }
+
+    img {
+        width: 150px;
+
+    }
+}

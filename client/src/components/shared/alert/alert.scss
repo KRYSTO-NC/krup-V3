@@ -1,0 +1,41 @@
+@import '../../../sass/reset';
+@import '../../../sass/variables';
+@import '../../../sass/mixins';
+@import '../../../sass/utilities';
+@import '../../../sass/animations';
+@import '../../../sass/form';
+
+// alerts 
+.alert {
+    padding: 1rem;
+    margin-bottom: 3rem;
+    border-radius: 5px;
+    font-size: 1.4rem;
+    font-weight: bold;
+    opacity: 0.9;   
+    text-align: center;
+    animation: flip-in-hor-top 0.5s, disappear 1s 2s forwards; /* Add the custom disappear animation */
+
+    &-primary {
+        @include setBackground($primary-color);
+        color: white;
+    }
+    &-secondary {
+        @include setBackground($secondary-color);
+    }
+
+    &-success {
+        @include setBackground($success-color);
+        color: white;
+    }
+    &-danger {
+        @include setBackground($danger-color);
+    }
+}
+
+@keyframes disappear {
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
