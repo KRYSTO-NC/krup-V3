@@ -1,0 +1,100 @@
+[
+  {
+    "_id": "5d725a4a7b292f5f8ceff789",
+    "name": "Peignes en plastique recyclé",
+    "description": "Peignes en plastique recyclé, fabriqués à partir de bouteilles en plastique recyclées collecté localement", 
+    "price": 600,
+    "category": "Mode",
+    "images": ["/uploads/sample.png"],
+    "profile": "5d713995b721c3bb38c1f5d0"
+    
+  },
+  {
+    "_id": "5d725c84c4ded7bcb480eaa0",
+    "name": "Cache-pot en plastique recyclé",
+    "images": ["/uploads/sample.png"],
+    "description": "Cache-pot en plastique recyclé, fabriqués à partir de bouteilles en plastique recyclées collecté localement",
+    
+    "category": "Maison & Jardin",
+    "price": 800,
+    "profile": "5d713995b721c3bb38c1f5d0"
+
+  },
+  {
+    "_id": "5d725cb9c4ded7bcb480eaa1",
+    "name": "Banane cousu main",
+    "images": ["/uploads/sample.png"],
+    "category": "Mode",
+
+
+    "description": "Banane cousu main, fabriqués à partir de tissus recyclés collecté localement",
+    "price": 12000,
+    "profile": "5d713a66ec8f2b88b8f830b8"
+   
+  },
+  {
+    "_id": "5d725cd2c4ded7bcb480eaa2",
+    "name": "Sac à dos cousu main",
+    "images": ["/uploads/sample.png"],
+    "category": "Mode",
+
+    "description": "Sac à dos cousu main, fabriqués à partir de tissus recyclés collecté localement",
+    "price": 10000,
+    "profile": "5d713a66ec8f2b88b8f830b8"
+ 
+  },
+  {
+    "_id": "5d725ce8c4ded7bcb480eaa3",
+    "name": "Savons naturels",
+    "category": "Produit de beauté",
+
+    "description": "Savons naturels, fabriqués à partir de produits naturels collecté localement",
+    "price": 1200,
+    "images": ["/uploads/sample.png"],
+    "profile": "5d725a037b292f5f8ceff787"
+  
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa4",
+    "name": "Savon vanille",
+    "category": "Produit de beauté",
+
+    "description": "Savon vanille, fabriqués à partir de produits naturels collecté localement",
+    "price": 9000,
+    "images": ["/uploads/sample.png"],
+    "profile": "5d725a037b292f5f8ceff787"
+    
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa5",
+    "images": ["/uploads/sample.png"],
+    "name": "Produit menager naturel",
+    "category": "Produit Entretien",
+
+    "description": " Avec ce produit, vous pourrez nettoyer votre maison sans polluer l'environnement.",
+    "price": 800,
+    "profile": "5d725a037b292f5f8ceff787"
+ 
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa6",
+    "images": ["/uploads/sample.png"],
+    "name": "12 oeufs bio",
+    "category": "Alimentaires",
+   
+    "description": "mes poules sont élevées en plein air et nourries avec des aliments bio.",
+    "price": 750,
+    "profile": "5d725a1b7b292f5f8ceff788"
+   
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa7",
+    "name": "Avocats bio",
+    "images": ["/uploads/sample.png"],
+    "category": "Fruits & Légumes",
+    "description": "Avocats bio, produits localement",
+    "price": 600,
+    "profile": "5d725a1b7b292f5f8ceff788"
+    
+  }
+]

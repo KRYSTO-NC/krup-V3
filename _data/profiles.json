@@ -1,0 +1,103 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "user": "5d7a514b5d2c12c7449be045",
+    "status": "Gérant",
+    "compagny": "Krysto",
+    "website": "https://krysto.nc",
+    "categoryProduct": "Produits en plastique recyclé",
+    "bio": "Bonjour avec mes machines low-teck je fabrique des produits en plastique recyclé. Je suis situé à Nouméa et je livre sur tout le territoire. N'hésitez pas à me contacter pour plus d'informations.",
+    "phone": "789876",
+    "address": "8 rue higginson, 98800,Nouméa",
+    "social": {
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com/krysto.noumea",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  {
+    "_id": "5d713a66ec8f2b88b8f830b8",
+    "user": "5d7a514b5d2c12c7449be046",
+    "status": "Gérant",
+    "compagny": "Décaledonienne",
+    "website": "https://decaledonienne.com",
+    "categoryProduct": "Mode, Accessoires,  Artisanat",
+    "bio": "Bonjour a tous je suis une jeune entrepreneuse qui a pour but de promouvoir les produits locaux et les artisans de la Nouvelle-Calédonie. Je vous propose des produits de qualité et fait main. N'hésitez pas à me contacter pour plus d'informations.",
+    "phone": "875432",
+    "address": "29 Promenade Roger Laroque, 98800 Nouméa",
+    "social": {
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com/nina.lamottebadani",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  {
+    "_id": "5d725a037b292f5f8ceff787",
+    "user": "5c8a1d5b0190b214360dc031",
+    "status": "Gérant",
+    "compagny": "Baebao",
+    "website": "https://baebao.nc",
+    "categoryProduct": "Savons, Bougies, Huiles essentielles, Produits ménagers",
+    "bio": "Baebao fabrique des savons et des bougies artisanales à base de produits naturels et locaux. Nous proposons également des huiles essentielles et des produits ménagers naturels. Nous sommes situés à Nouméa et nous livrons sur tout le territoire.",
+    "phone": "789876",
+    "address": "75 avenue Marechal Foch, 98800 Nouméa",
+    "social": {
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com/profile.php?id=100045246224875",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  {
+    "_id": "5d725a1b7b292f5f8ceff788",
+    "user": "5c8a1d5b0190b214360dc032",
+    "status": "Agriculteur",
+    "compagny": "La ferme des petites fougères",
+    "website": "https://devworks.com",
+    "categoryProduct": "Fruits, Légumes, Miel, Achards",
+    "bio": "passioné par la nature, je cultive des fruits et légumes de saison. Je propose également du miel. Je suis situé à Nouméa et je livre sur tout le territoire. N'hésitez pas à me contacter pour plus d'informations.",
+    "phone": "737879",
+    "address": "383 route du parc des grandes fougères, 98800 Nouméa",
+    "social": {
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com/fermedespetitesfougeres",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  {
+    "_id": "5d725a1b7b292f5f8ceff789",
+    "user": "5c8a1d5b0190b214360dc033",
+    "status": "Gérant",
+    "compagny": "BOKO Vrac Store Calédonien ",
+    "website": "https://devworks.com",
+    "categoryProduct": "Fruits & Légumes, Produits locaux, pâtes, Graines, Epices, Céréales, café, Thé, Lait Frais , Produits d'entretien & d'hygiène",
+    "bio": "BOKO, votre épicerie vrac à Nouméa qui vous propose des produits frais et locaux, sains et abordables",
+    "phone": "737879",
+    "address": "255 Rue Armand Ohlen 98800, 98800 Nouméa",
+    "social": {
+      "twitter": "https://twitter.com",
+      "facebook": "https://www.facebook.com/BOKO.nc",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  {
+    "_id": "5d725a1b7b292f5f8ceff189",
+    "user": "5c8a1d5b0190b214360dc034",
+    "status": "Gérante",
+    "compagny": "Action Pub NC - Events ",
+    "website": "https://devworks.com",
+    "categoryProduct": "Organisation de salons, événements, séminaires,Gestion de Régie Publicitaire et plan média.",
+    "bio": "Avec plus de 10 ans d'expérience dans l'organisation d’événement, nous sommes en mesure de tout organiser tel un chef d'orchestre.Incentive-Lancement produit innovation-Animation CHR-Street Marketing-Salon-Foire-Expo-Cocktail d'entreprise...Quelque soit l’événement ou le secteur d'activité, notre objectif est d'instaurer une confiance entre les différents acteurs.Nous planifions avec précisions et souplesse l'organisation, afin que les priorités soient ciblées, les imprévus anticipés et la logistique ficelée. Une équipe rodée accompagnée de collaborateurs et prestataires de qualité, qui partage le même objectif professionnel, réussir votre événement.","phone": "772227",
+    "address": "Nouméa, New Caledonia, 98800",
+    "social": {
+      "twitter": "https://twitter.com",
+      "facebook": "https://www.facebook.com/profile.php?id=100057371771942&sk=about",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    }
+  }
+]
